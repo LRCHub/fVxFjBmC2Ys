@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "音楽はいつまでも (日本語歌)",
+  "base_artist": "Hiiro Ishibashi",
+  "createdAt": "2026-03-25T11:21:51.925014Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "音楽はいつまでも (日本語歌)",
+      "artist": "石橋陽彩",
+      "has_synced": false,
+      "path": "select/pl_01_音楽はいつまでも_(日本語歌)_石橋陽彩.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "音楽はいつまでも (日本語歌)",
+      "artist": "石橋陽彩",
+      "has_synced": false,
+      "path": "select/pl_02_音楽はいつまでも_(日本語歌)_石橋陽彩.txt"
+    }
+  ]
+}
